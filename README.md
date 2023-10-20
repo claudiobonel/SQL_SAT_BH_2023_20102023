@@ -4,7 +4,7 @@ Arquivos utilizados na palestra "Engenharia de dados em Python: concepção, pro
 
 # Contatos
 
-E-mail: contato@claudiobonel.com.br
+E-mail: contato@profclaudiobonel.com.br
 <br>
 Demais contatos e redes sociais: http://profclaudiobonel.com.br
 
